@@ -87,6 +87,6 @@ To see examples on specific colors that you can override, check the following [t
 - **Documentation**: Visit our [Storybook](https://ink-kit.inkonchain.com/)
 - **Contributing**: Visit our [GitHub repository](https://github.com/inkonchain/ink-kit)
 
-## WIP Notice
+## WIP Notice..
 
 This is a work in progress: we are constantly adding new components, improving the developer experience, and fixing bugs.
